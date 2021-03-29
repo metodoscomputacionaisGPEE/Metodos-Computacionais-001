@@ -3,7 +3,7 @@ Seja bem vindo à disciplina de Métodos Computacionais
 
 _**Dados do projeto de ensino**_  
 
-**Nome: Produção de material didático para ensino em engenharias**  (**SEI nº **)  
+**Nome: Produção de material didático para ensino em engenharias**  (_**SEI nº 123456.89**_)  
 
 **Início do projeto:** 2021  
 
