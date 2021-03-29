@@ -10,8 +10,8 @@ _**Dados do projeto de ensino**_
 **Coordenação:** [Prof. Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)     
 
 **Colaboradores:**   
-[Prof. Dr. Marcos Napoleão Rabelo](http://lattes.cnpq.br/2268506213083114)   
-[Prof. Dra. Maria José Pereira Dantas](http://lattes.cnpq.br/2268506213083114)   
+[Prof. Dr. Marcos Napoleão Rabelo](http://lattes.cnpq.br/2268506213083114)     
+[Prof. Dra. Maria José Pereira Dantas](http://lattes.cnpq.br/2268506213083114)     
 
 **Discentes:**    
 - João Vitor Coelho Estrela    
