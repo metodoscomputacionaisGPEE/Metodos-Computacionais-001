@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+Seja bem vindo à disciplina de Métodos Computacionais
+<p align="justify">Nesse repositório você poderá ter acesso ao curso de métodos computacionais ministrado em cursos de pós-graduação da UFCAT e PUC-GO.</p> 
 
-You can use the [editor on GitHub](https://github.com/metodoscomputacionaisGPEE/Metodos-Computacionais-001/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_**Dados do projeto de ensino**_  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Nome: Produção de material didático para ensino em engenharias**  (**SEI nº **)  
 
-### Markdown
+**Início do projeto:** 2021  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Coordenação:** [Prof. Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)   
 
-```markdown
-Syntax highlighted code block
+**Colaboradores:** 
+[Prof. Dr. Marcos Napoleão Rabelo](http://lattes.cnpq.br/2268506213083114) 
+[Prof. Dra. Maria José Pereira Dantas](http://lattes.cnpq.br/2268506213083114) 
 
-# Header 1
-## Header 2
-### Header 3
+**Discentes:**  
+- João Vitor Coelho Estrela  
 
-- Bulleted
-- List
+### 1.0 INTRODUÇÃO AOS MÉTODOS COMPUTACIONAIS
+### 2.0 SISTEMAS LINEARES
+#### [2.1 Método de Gauss para sistemas lineares]()
+#### [2.2 Método de Gauss para sistemas lineares]()
+#### [2.3 Método de Gauss para sistemas lineares]()
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/metodoscomputacionaisGPEE/Metodos-Computacionais-001/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
