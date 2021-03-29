@@ -7,14 +7,14 @@ _**Dados do projeto de ensino**_
 
 **Início do projeto:** 2021  
 
-**Coordenação:** [Prof. Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)   
+**Coordenação:** [Prof. Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)     
 
-**Colaboradores:** 
-[Prof. Dr. Marcos Napoleão Rabelo](http://lattes.cnpq.br/2268506213083114) 
-[Prof. Dra. Maria José Pereira Dantas](http://lattes.cnpq.br/2268506213083114) 
+**Colaboradores:**   
+[Prof. Dr. Marcos Napoleão Rabelo](http://lattes.cnpq.br/2268506213083114)   
+[Prof. Dra. Maria José Pereira Dantas](http://lattes.cnpq.br/2268506213083114)   
 
-**Discentes:**  
-- João Vitor Coelho Estrela  
+**Discentes:**    
+- João Vitor Coelho Estrela    
 
 ### 1.0 INTRODUÇÃO AOS MÉTODOS COMPUTACIONAIS
 ### 2.0 SISTEMAS LINEARES
